@@ -44,7 +44,7 @@
 - Implemented *undo system* for *shared-state* aircraft, enabling *complex operation chaining* without re-parsing 
 - Accelerated future development of structural analysis tools by *95%*
 
-*Lead Researcher*, *McGill AI Ethics Lab*, Montreal, QC #skip May 2024 -- Present
+*Lead Researcher*, *McGill AI Ethics Lab*, Montreal, QC #skip May 2024 -- Dec 2024
 - Researched and presented novel misinformation solutions at *McGill's Undergraduate Research Symposium*
 - Built *cross-language API* library in *Go* with *C bindings* for *Python* integration, improving team velocity by *40%*
 - Developed *NLP-powered* video analyzer using *sentiment analysis* and *engagement pattern* detection
