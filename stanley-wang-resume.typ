@@ -73,4 +73,4 @@
 
 
 == Education
-*McGill University, Bachelor of Computer Science* #skip Sep 2022 -- Dec 2027
+*McGill University, Bachelor of Science, Computer Science* #skip Sep 2022 -- Dec 2027
