@@ -1,0 +1,5 @@
+#!/bin/sh
+# Publish the resume when a commit changes it. A failed publish never undoes
+# the commit; rerun scripts/publish-resume.sh by hand.
+"$(git rev-parse --show-toplevel)/scripts/publish-resume.sh" --if-changed \
+  || echo "post-commit: resume not published; rerun scripts/publish-resume.sh" >&2

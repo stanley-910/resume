@@ -1,0 +1,4 @@
+#!/bin/sh
+# This repository sets core.hooksPath to .githooks, which replaces the global
+# ~/.githooks; keep its checks.
+exec "$HOME/.githooks/commit-msg" "$@"
